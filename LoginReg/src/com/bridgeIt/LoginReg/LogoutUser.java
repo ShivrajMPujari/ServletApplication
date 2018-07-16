@@ -1,0 +1,54 @@
+package com.bridgeIt.LoginReg;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.bridgeIt.UserPojo.User;
+
+/**
+ * Servlet implementation class LogoutUser
+ */
+public class LogoutUser extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html");
+		PrintWriter write=response.getWriter();
+		write.println("response");
+		HttpSession session= request.getSession(false);
+		
+		
+		try {
+			User user = (User)session.getAttribute("user");
+			if (user==null){
+				write.print("<p> user is null </p>");
+				request.getRequestDispatcher("index.html").include(request, response);
+			}else {
+				
+				write.println("user");
+				System.out.println(user.getEmail());
+				session.setAttribute("user", null);
+				session.invalidate();
+				write.print("your are logged out");
+				request.getRequestDispatcher("index.html").include(request, response);
+				
+			}
+		} catch (Exception e) {
+			write.println("plz login first...");
+			request.getRequestDispatcher("index.html").include(request, response);
+		
+		}
+		
+	}
+
+}

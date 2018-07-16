@@ -1,0 +1,5 @@
+package com.bridgeIt.model;
+
+public class User {
+
+}

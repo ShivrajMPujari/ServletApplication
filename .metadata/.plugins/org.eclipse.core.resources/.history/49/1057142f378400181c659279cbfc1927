@@ -1,0 +1,5 @@
+package com.bridgeIt.dao;
+
+public class UserDao {
+
+}

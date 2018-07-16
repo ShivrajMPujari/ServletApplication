@@ -1,0 +1,5 @@
+package com.bridgeIt.LoginReg.DAO;
+
+public class UserDAO {
+
+}

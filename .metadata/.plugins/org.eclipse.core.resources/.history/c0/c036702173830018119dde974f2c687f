@@ -1,0 +1,5 @@
+package com.bridgeIt.UserPojo;
+
+public class User {
+
+}

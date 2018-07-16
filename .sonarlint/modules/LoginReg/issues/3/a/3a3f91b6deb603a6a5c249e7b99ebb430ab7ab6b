@@ -1,0 +1,17 @@
+
+]squid:S19890"&Add a "try/catch" block for "include".(¹Šôê8Ëç˜™È,HöRMINORZVULNERABILITY
+]squid:S1125(")Remove the literal "false" boolean value.(ï®¡ï8¢ùÎ›È,HùRMINORZ
+CODE_SMELL
+ksquid:S2589("7Remove this expression which always evaluates to "true"(ï®¡ï8¢ùÎ›È,HúRMAJORZ
+CODE_SMELL
+‚squid:S1192&"KDefine a constant instead of duplicating this literal "index.html" 3 times.(¹Šôê8¢ùÎ›È,HñRCRITICALZ
+CODE_SMELL
+†squid:UselessImportCheck"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´þÿÿÿÿ8“ç„™È,HøRMINORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿HóRMAJORZ
+CODE_SMELL
+‡squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥™Ý`HòRMINORZ
+CODE_SMELL
+dsquid:S1989"(Add a "try/catch" block for "getWriter".(¯†Ž€øÿÿÿÿ8ÍÌ“™È,HõRMINORZVULNERABILITY
+]squid:S19890"&Add a "try/catch" block for "include".(¹Šôê8Ëç˜™È,H÷RMINORZVULNERABILITY
+_squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8®Ú•™È,HôRMINORZVULNERABILITY

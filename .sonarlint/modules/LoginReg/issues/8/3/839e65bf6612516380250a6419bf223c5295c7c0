@@ -1,0 +1,21 @@
+
+bsquid:S1989,"&Add a "try/catch" block for "forward".(‰®‚İúÿÿÿÿ8İ½á÷Ç,HRMINORZVULNERABILITY
+gsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿HŸRMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(ç’¤™8İ½á÷Ç,H¢RMAJORZ
+CODE_SMELL
+lsquid:S2441+":Make "User" serializable or don't store it in the session.(£™Õàûÿÿÿÿ8¸â—øÇ,H™RMAJORZBUG
+bsquid:S1989,"&Add a "try/catch" block for "forward".(‰®‚İúÿÿÿÿ8İ½á÷Ç,HRMINORZVULNERABILITY
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÓÕŒ›ûÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+_squid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ½á÷Ç,H›RMINORZVULNERABILITY
+]squid:S19892"&Add a "try/catch" block for "include".(¹Šôê8İ½á÷Ç,H¡RMINORZVULNERABILITY
+‡squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥™İ`HšRMINORZ
+CODE_SMELL
+dsquid:S19890"(Add a "try/catch" block for "getWriter".(¯†€øÿÿÿÿ8İ½á÷Ç,H RMINORZVULNERABILITY
+]squid:S19892"&Add a "try/catch" block for "include".(¹Šôê8İ½á÷Ç,HœRMINORZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¬§®8İ½á÷Ç,H£RMAJORZ
+CODE_SMELL

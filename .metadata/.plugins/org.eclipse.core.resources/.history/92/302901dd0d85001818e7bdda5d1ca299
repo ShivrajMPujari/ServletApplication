@@ -1,0 +1,66 @@
+package com.bridgeIt.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.bridgeIt.model.User;
+import com.bridgeIt.service.Service;
+
+
+/**
+ * Servlet implementation class RegistrationController
+ */
+public class RegistrationController extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+		response.setContentType("text/html");
+		PrintWriter write=response.getWriter();
+		User user = new User();
+		Service service = new Service();
+		user.setEmail(request.getParameter("emailId"));
+		user.setFullName(request.getParameter("fullName"));
+		user.setPassword(request.getParameter("pass1"));
+		user.setUserName(request.getParameter("userName"));
+		
+		System.out.println(user);
+		boolean outcome = service.userExistence(user);
+		
+		if (outcome) {
+			write.println("<h3 style='padding-left:520px;'>you are an existing user</h3>");
+			request.getRequestDispatcher("index.jsp").include(request, response);
+
+		}else{
+
+		try {
+			boolean result = service.userRegister(user);
+			
+			if(result){
+				write.println("you are registerd plz login..");
+				request.getRequestDispatcher("index.jsp").include(request, response);
+			}
+			else if (result==false){
+				
+				write.println("something went wrong plz register again");
+				request.getRequestDispatcher("index.jsp").include(request, response);
+			}
+			
+		} catch (Exception e) {
+			write.println("something went wrong plz register again");
+			request.getRequestDispatcher("index.jsp").include(request, response);
+			e.printStackTrace();
+		}
+			
+		
+		}
+	}
+
+}

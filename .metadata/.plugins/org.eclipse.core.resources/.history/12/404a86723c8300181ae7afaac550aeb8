@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.tableDiv{
+	height:250px;
+	width:500px;
+	margin:auto;
+	border:2px solid blue;
+}
+.loginTabel{
+	
+	height:240px;
+	width:480px;
+	margin:auto;
+	
+}
+tr{
+	height: 30px;
+}

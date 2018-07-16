@@ -1,0 +1,1035 @@
+2018-07-10 15:27:46,307 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2018-07-10 15:27:46,462 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2018-07-10 15:27:46,591 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2018-07-10 15:27:46,718 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2018-07-10 15:28:34,644 [Worker-150] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/bridgeit/Downloads/AdvJava/loginReg/pom.xml
+2018-07-10 15:28:36,479 [Worker-150] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:loginReg:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/loginReg/pom.xml.
+2018-07-10 15:28:37,880 [Worker-150] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginReg/src/main/java
+2018-07-10 15:28:37,880 [Worker-150] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /loginReg/src/main/resources
+2018-07-10 15:28:37,880 [Worker-150] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /loginReg/src/test/java
+2018-07-10 15:28:39,808 [Worker-150] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2018-07-10 15:28:40,313 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:28:40,317 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:28:40,321 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:28:40,322 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:29:04,762 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:29:04,797 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:29:04,798 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:29:04,798 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:43:09,618 [Worker-158] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:loginReg:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/loginReg/pom.xml.
+2018-07-10 15:43:10,349 [Worker-158] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.pom
+2018-07-10 15:43:10,475 [Worker-158] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.pom
+2018-07-10 15:43:10,618 [Worker-158] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar
+2018-07-10 15:43:12,124 [Worker-158] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar
+2018-07-10 15:43:13,012 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:43:13,014 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:43:13,016 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:43:13,017 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:43:13,017 [Worker-158] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginReg
+2018-07-10 15:43:13,018 [Worker-158] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginReg
+2018-07-10 15:43:13,026 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:43:14,154 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:43:14,155 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:43:14,156 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:43:14,157 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:45:56,826 [Worker-165] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:loginReg:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/loginReg/pom.xml.
+2018-07-10 15:45:57,191 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:45:57,193 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:45:57,195 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:45:57,195 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:45:57,195 [Worker-165] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginReg
+2018-07-10 15:45:57,195 [Worker-165] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginReg
+2018-07-10 15:45:57,198 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:45:58,363 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:45:58,364 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:45:58,365 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:45:58,365 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:55:34,212 [Worker-166] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:loginReg:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/loginReg/pom.xml.
+2018-07-10 15:55:34,507 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:55:34,509 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:55:34,511 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:55:34,511 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:55:34,512 [Worker-166] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of loginReg
+2018-07-10 15:55:34,512 [Worker-166] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for loginReg
+2018-07-10 15:55:34,515 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:56:11,017 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:56:11,019 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:56:11,027 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:56:11,028 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:56:42,106 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:56:42,107 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:56:42,108 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:56:42,109 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 15:57:04,278 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:57:04,279 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 15:57:04,281 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 15:57:04,282 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 16:04:28,446 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:04:28,447 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-10 16:04:28,494 [Worker-171] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:04:28,494 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 16:05:08,996 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:05:08,997 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-10 16:05:08,999 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:05:09,000 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 16:05:29,934 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:05:29,935 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-10 16:05:29,937 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:05:29,937 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 16:08:46,792 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:08:46,792 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-07-10 16:08:46,797 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 16:08:46,798 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/loginReg/src/test/resources
+2018-07-10 17:03:35,360 [Worker-187] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/bridgeit/Downloads/AdvJava/LoginRegistration/pom.xml
+2018-07-10 17:03:35,699 [Worker-187] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:LoginRegistration:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/LoginRegistration/pom.xml.
+2018-07-10 17:03:36,119 [Worker-187] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/main/java
+2018-07-10 17:03:36,119 [Worker-187] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginRegistration/src/main/resources
+2018-07-10 17:03:36,119 [Worker-187] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginRegistration/src/test/java
+2018-07-10 17:03:37,161 [Worker-187] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-07-10 17:03:37,434 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:03:37,435 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:03:37,438 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:03:37,439 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:03:49,865 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:03:49,867 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:03:49,868 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:03:49,868 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:04:31,501 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:04:31,501 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:04:31,520 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:04:31,520 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:05:26,433 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:05:26,438 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:05:26,439 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:05:26,440 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:06:14,822 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:06:14,822 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:06:14,823 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:06:14,823 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:06:43,300 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:06:43,300 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:06:43,311 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:06:43,311 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:07:10,115 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:07:10,116 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:07:10,117 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:07:10,117 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:08:25,034 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:08:25,039 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:08:25,041 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:08:25,042 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:10:44,153 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:10:44,153 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:10:44,155 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:10:44,155 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:11:47,574 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:11:47,574 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:11:47,575 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:11:47,576 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:12:18,624 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:12:18,624 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:12:18,625 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:12:18,626 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:12:33,473 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:12:33,474 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:12:33,475 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:12:33,476 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:12:58,887 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:12:58,888 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:12:58,890 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:12:58,890 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:13:01,536 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:13:01,537 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:13:01,537 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:13:01,538 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:13:38,892 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:13:38,892 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:13:38,893 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:13:38,893 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:18:12,917 [Worker-196] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:LoginRegistration:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/LoginRegistration/pom.xml.
+2018-07-10 17:18:13,800 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2018-07-10 17:18:13,935 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.pom
+2018-07-10 17:18:14,095 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2018-07-10 17:18:37,602 [Worker-196] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar
+2018-07-10 17:18:38,060 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:18:38,062 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:18:38,064 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:18:38,065 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:18:38,065 [Worker-196] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-10 17:18:38,065 [Worker-196] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-10 17:18:38,067 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:18:38,445 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:18:38,445 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:18:38,446 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:18:38,446 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:20:03,304 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:20:03,305 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:20:03,306 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:20:03,306 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:20:26,972 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:20:26,972 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:20:26,973 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:20:26,973 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:21:58,672 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:21:58,672 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:21:58,673 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:21:58,674 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:22:26,557 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:22:26,558 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:22:26,559 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:22:26,559 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:22:37,653 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:22:37,654 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:22:37,654 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:22:37,654 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:27:45,183 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:27:45,183 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:27:45,185 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:27:45,185 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:55:47,479 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:55:47,480 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:55:47,481 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:55:47,494 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 17:59:10,561 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:59:10,562 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 17:59:10,563 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 17:59:10,563 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:00:17,725 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:00:17,726 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:00:17,726 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:00:17,726 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:01:45,065 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:01:45,065 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:01:45,066 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:01:45,066 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:02:04,167 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:02:04,167 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:02:04,168 [Worker-221] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:02:04,169 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:05:03,291 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:05:03,292 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:05:03,296 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:05:03,297 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:06:32,208 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:06:32,209 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:06:32,210 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:06:32,210 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:08:10,590 [Worker-225] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:08:10,591 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:08:10,593 [Worker-225] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:08:10,593 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:08:35,507 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:08:35,508 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:08:35,509 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:08:35,509 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:10:14,242 [Worker-141] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-10 18:10:14,410 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:10:14,419 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:10:14,423 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:10:14,430 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:10:14,430 [Worker-141] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-10 18:10:14,430 [Worker-141] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-10 18:10:14,442 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:10:22,780 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:10:22,781 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:10:22,782 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:10:22,782 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:19:59,208 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:19:59,208 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:19:59,209 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:19:59,210 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:20:29,892 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:20:29,892 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:20:29,893 [Worker-233] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:20:29,893 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:21:36,223 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:21:36,223 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:21:36,224 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:21:36,225 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:25:49,950 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:25:49,951 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:25:49,952 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:25:49,952 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:25:59,211 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:25:59,214 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:25:59,216 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:25:59,217 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:27:33,802 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:27:33,803 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:27:33,804 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:27:33,804 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:28:48,442 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:28:48,443 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:28:48,443 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:28:48,444 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:28:55,668 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:28:55,668 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:28:55,669 [Worker-236] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:28:55,669 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:31:31,373 [Worker-238] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:LoginRegistration:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/LoginRegistration/pom.xml.
+2018-07-10 18:31:31,666 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:31:31,667 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:31:31,669 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:31:31,669 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:31:31,669 [Worker-238] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-10 18:31:31,669 [Worker-238] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-10 18:31:31,672 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:31:32,770 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:31:32,770 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:31:32,771 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:31:32,771 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:36:53,582 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:36:53,582 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:36:53,583 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:36:53,584 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:40:06,013 [Worker-244] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:40:06,013 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:40:06,014 [Worker-244] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:40:06,014 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:48:56,158 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:48:56,159 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:48:56,160 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:48:56,160 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:50:32,631 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:50:32,632 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:50:32,633 [Worker-249] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:50:32,634 [Worker-249] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:50:33,839 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:50:33,840 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:50:33,841 [Worker-246] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:50:33,841 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:50:45,171 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:50:45,171 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:50:45,172 [Worker-250] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:50:45,173 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-10 18:56:56,461 [Worker-255] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:56:56,462 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-10 18:56:56,463 [Worker-255] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-10 18:56:56,463 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 09:37:17,376 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 09:37:17,497 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 09:37:17,501 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 09:37:17,501 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 09:54:23,507 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bridgeIt:LoginRegistration:0.0.1-SNAPSHOT @ /home/bridgeit/Downloads/AdvJava/LoginRegistration/pom.xml.
+2018-07-11 09:54:24,011 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 09:54:24,055 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 09:54:24,057 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 09:54:24,058 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 09:54:24,086 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-11 09:54:24,087 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-11 09:54:24,095 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:01:42,013 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:01:42,013 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:01:42,014 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:01:42,015 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:07:03,802 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:07:03,802 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:07:03,804 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:07:03,804 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:10:06,151 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:10:06,155 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:10:06,156 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:10:06,156 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:10:26,391 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:10:26,392 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:10:26,393 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:10:26,393 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:14:12,644 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:14:12,644 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:14:12,645 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:14:12,646 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:14:34,589 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:14:34,590 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:14:34,591 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:14:34,591 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:18:21,767 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:18:21,768 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:18:21,774 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:18:21,775 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:27:23,981 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:27:23,982 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:27:23,982 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:27:23,983 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:29:41,772 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:29:41,773 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:29:41,774 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:29:41,775 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:34:22,237 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:34:22,238 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:34:22,239 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:34:22,239 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:36:54,369 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:36:54,370 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:36:54,384 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:36:54,384 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:41:09,540 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:41:09,544 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:41:09,545 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:41:09,546 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:42:10,227 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:42:10,227 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:42:10,228 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:42:10,229 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:47:06,475 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:47:06,475 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:47:06,477 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:47:06,477 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 10:52:23,622 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:52:23,622 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 10:52:23,625 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 10:52:23,625 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:18:48,350 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:18:48,350 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:18:48,351 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:18:48,351 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:18:56,354 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:18:56,354 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:18:56,355 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:18:56,355 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:19:21,878 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:19:21,879 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:19:21,880 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:19:21,881 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:21:28,340 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:21:28,341 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:21:28,341 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:21:28,342 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:22:22,263 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:22:22,263 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:22:22,264 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:22:22,264 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:22:49,389 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:22:49,389 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:22:49,390 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:22:49,390 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:23:41,140 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:23:41,141 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:23:41,141 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:23:41,142 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 11:25:15,026 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:25:15,028 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 11:25:15,030 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 11:25:15,030 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 15:17:36,698 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:17:36,700 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 15:17:36,701 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:17:36,701 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 15:18:02,527 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:18:02,528 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 15:18:02,529 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:18:02,529 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 15:25:23,285 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:25:23,285 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 15:25:23,286 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:25:23,286 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 15:26:37,376 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:26:37,376 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 15:26:37,377 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:26:37,377 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 15:52:44,319 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:52:44,319 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 15:52:44,320 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:52:44,320 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 15:53:00,266 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:53:00,267 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 15:53:00,268 [Worker-169] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 15:53:00,269 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 17:29:50,353 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:29:50,353 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 17:29:50,354 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:29:50,354 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 17:30:13,464 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:30:13,464 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 17:30:13,465 [Worker-193] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:30:13,465 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 17:31:33,089 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:31:33,089 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 17:31:33,090 [Worker-192] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:31:33,090 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 17:31:50,609 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:31:50,610 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 17:31:50,611 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:31:50,611 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 17:32:48,598 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:32:48,599 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 17:32:48,600 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:32:48,600 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 17:56:01,160 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:56:01,161 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 17:56:01,162 [Worker-201] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 17:56:01,162 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:01:19,885 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:01:19,886 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:01:19,887 [Worker-198] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:01:19,887 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:06:14,213 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:06:14,213 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:06:14,214 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:06:14,215 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:11:45,199 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:11:45,200 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:11:45,201 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:11:45,201 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:17:08,418 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:17:08,418 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:17:08,419 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:17:08,419 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:17:20,242 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:17:20,242 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:17:20,243 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:17:20,244 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:27:16,437 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:27:16,438 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:27:16,438 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:27:16,439 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:29:20,759 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:29:20,759 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:29:20,760 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:29:20,761 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:30:31,281 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:30:31,282 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:30:31,282 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:30:31,283 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:31:39,237 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:31:39,237 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:31:39,238 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:31:39,239 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:31:52,218 [Worker-222] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-11 18:31:52,521 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:31:52,521 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:31:52,522 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:31:52,523 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:31:52,523 [Worker-215] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-11 18:31:52,523 [Worker-215] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-11 18:31:52,546 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:33:50,553 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:33:50,553 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:33:50,554 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:33:50,554 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:35:05,009 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:35:05,010 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:35:05,011 [Worker-223] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:35:05,011 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:39:28,025 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:39:28,026 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:39:28,026 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:39:28,027 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:41:03,924 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:41:03,924 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:41:03,925 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:41:03,925 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:42:45,997 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:42:45,998 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:42:45,999 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:42:45,999 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:43:03,693 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:03,693 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:43:03,694 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:03,694 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:43:15,573 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:15,573 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:43:15,574 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:15,575 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:43:29,748 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:29,749 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:43:29,750 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:29,750 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:43:47,187 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:47,188 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:43:47,189 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:43:47,189 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:44:41,965 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:44:41,965 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:44:41,966 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:44:41,967 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:49:12,721 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:49:12,721 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:49:12,721 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:49:12,722 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:52:43,131 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:52:43,131 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:52:43,132 [Worker-230] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:52:43,132 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 18:55:22,536 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:55:22,536 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 18:55:22,537 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 18:55:22,537 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 19:05:22,341 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:05:22,342 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 19:05:22,343 [Worker-241] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:05:22,343 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 19:05:41,294 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:05:41,295 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 19:05:41,296 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:05:41,296 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 19:05:51,310 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:05:51,311 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 19:05:51,311 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:05:51,311 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-11 19:06:48,538 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:06:48,538 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-11 19:06:48,539 [Worker-238] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-11 19:06:48,540 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 09:39:49,663 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 09:39:49,719 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 09:39:49,723 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 09:39:49,723 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 10:17:07,448 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 10:17:07,487 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 10:17:07,488 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 10:17:07,489 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 10:30:36,625 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 10:30:36,629 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 10:30:36,630 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 10:30:36,631 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 10:30:44,784 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 10:30:44,785 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 10:30:44,787 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 10:30:44,787 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:09:42,370 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:09:42,370 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:09:42,371 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:09:42,371 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:10:14,612 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:10:14,613 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:10:14,614 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:10:14,615 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:10:54,053 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:10:54,053 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:10:54,055 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:10:54,055 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:11:17,164 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:11:17,166 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:11:17,167 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:11:17,168 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:13:49,519 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:13:49,519 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:13:49,523 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:13:49,524 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:15:51,827 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:15:51,828 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:15:51,828 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:15:51,829 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:18:01,474 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:18:01,474 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:18:01,475 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:18:01,475 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:26:28,266 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:26:28,267 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:26:28,268 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:26:28,268 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 11:26:32,287 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:26:32,288 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 11:26:32,289 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 11:26:32,290 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:26:13,187 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:26:13,187 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:26:13,188 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:26:13,188 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:27:18,432 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:27:18,432 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:27:18,433 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:27:18,434 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:28:02,621 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:28:02,624 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:28:02,625 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:28:02,626 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:28:04,857 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:28:04,858 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:28:04,859 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:28:04,860 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:28:10,499 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 12:28:10,750 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:28:10,751 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:28:10,753 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:28:10,753 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:28:10,754 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 12:28:10,755 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 12:28:10,863 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:29:24,644 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 12:29:24,876 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:29:24,876 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:29:24,878 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:29:24,878 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:29:24,878 [Worker-101] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 12:29:24,879 [Worker-101] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 12:29:24,882 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:29:31,278 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:29:31,278 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:29:31,279 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:29:31,280 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 12:32:11,545 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:32:11,545 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 12:32:11,547 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 12:32:11,547 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 13:22:23,160 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:22:23,161 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 13:22:23,162 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:22:23,162 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 13:23:07,597 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:23:07,598 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 13:23:07,599 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:23:07,599 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 13:27:38,998 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:27:38,999 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 13:27:39,000 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:27:39,000 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 13:28:14,083 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:28:14,084 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 13:28:14,085 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:28:14,085 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 13:29:24,488 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:29:24,489 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 13:29:24,493 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 13:29:24,493 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 14:47:59,403 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 14:47:59,403 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 14:47:59,404 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 14:47:59,404 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:02:47,979 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:02:47,980 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:02:47,980 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:02:47,981 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:05:38,640 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:05:38,641 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:05:38,642 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:05:38,642 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:08:20,671 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:08:20,671 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:08:20,672 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:08:20,672 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:09:08,822 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:09:08,823 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:09:08,824 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:09:08,824 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:10:46,762 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:10:46,763 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:10:46,764 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:10:46,764 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:12:17,839 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:12:17,840 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:12:17,841 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:12:17,841 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:12:40,614 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:12:40,615 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:12:40,615 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:12:40,616 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:30:02,605 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:30:02,605 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:30:02,606 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:30:02,606 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:30:15,860 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:30:15,861 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:30:15,874 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:30:15,875 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:39:36,297 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:39:36,298 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:39:36,298 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:39:36,299 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:42:25,431 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:42:25,431 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:42:25,432 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:42:25,432 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:44:48,296 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:44:48,297 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:44:48,297 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:44:48,298 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:45:18,024 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:45:18,025 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:45:18,026 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:45:18,026 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:45:49,393 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:45:49,393 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:45:49,394 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:45:49,395 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:46:44,650 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:46:44,650 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:46:44,652 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:46:44,652 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:46:50,266 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:46:50,267 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:46:50,268 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:46:50,268 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:49:21,933 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:49:21,934 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:49:21,935 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:49:21,936 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:50:01,484 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:50:01,485 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:50:01,486 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:50:01,487 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:56:57,564 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:56:57,564 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:56:57,565 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:56:57,565 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:57:15,829 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:57:15,845 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:57:15,847 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:57:15,847 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 15:57:40,815 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:57:40,815 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 15:57:40,816 [Worker-178] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 15:57:40,816 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:01:17,305 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:01:17,306 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:01:17,307 [Worker-176] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:01:17,307 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:01:23,648 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:01:23,648 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:01:23,649 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:01:23,649 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:01:58,639 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:01:58,639 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:01:58,640 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:01:58,641 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:03:25,876 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:03:25,876 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:03:25,877 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:03:25,877 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:04:19,838 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:04:19,839 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:04:19,840 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:04:19,840 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:04:56,258 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:04:56,258 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:04:56,260 [Worker-174] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:04:56,260 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:10:45,275 [Worker-182] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 16:10:45,448 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:10:45,449 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:10:45,449 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:10:45,450 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:10:45,450 [Worker-182] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 16:10:45,450 [Worker-182] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 16:10:45,454 [Worker-182] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:12:02,385 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:12:02,397 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:12:02,398 [Worker-187] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:12:02,398 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:14:06,129 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:14:06,129 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:14:06,130 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:14:06,130 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:25:25,788 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:25:25,788 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:25:25,789 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:25:25,790 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:32:01,371 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:32:01,371 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:32:01,372 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:32:01,372 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:32:54,584 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:32:54,584 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:32:54,585 [Worker-190] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:32:54,585 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:35:38,496 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:35:38,497 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:35:38,498 [Worker-195] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:35:38,498 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:36:32,773 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:36:32,773 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:36:32,774 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:36:32,774 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:41:24,550 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:41:24,550 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:41:24,551 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:41:24,551 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:42:56,869 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:42:56,870 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:42:56,871 [Worker-196] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:42:56,871 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:44:52,606 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:44:52,607 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:44:52,607 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:44:52,607 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:49:12,022 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:49:12,023 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:49:12,024 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:49:12,024 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:50:04,376 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:50:04,376 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:50:04,377 [Worker-197] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:50:04,377 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:50:54,575 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:50:54,576 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:50:54,577 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:50:54,577 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:52:50,935 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:52:50,936 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:52:50,937 [Worker-203] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:52:50,937 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:57:56,101 [Worker-204] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 16:57:56,338 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:57:56,338 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:57:56,339 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:57:56,339 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 16:57:56,339 [Worker-209] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 16:57:56,339 [Worker-209] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 16:57:56,342 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:04:04,167 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:04:04,167 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:04:04,168 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:04:04,168 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:13:16,306 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:13:16,306 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:13:16,307 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:13:16,307 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:15:52,143 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:15:52,144 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:15:52,146 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:15:52,146 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:15:57,586 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:15:57,587 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:15:57,588 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:15:57,588 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:16:37,549 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:16:37,549 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:16:37,550 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:16:37,550 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:16:59,033 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:16:59,033 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:16:59,034 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:16:59,034 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:17:10,575 [Worker-217] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 17:17:10,776 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:17:10,777 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:17:10,784 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:17:10,784 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:17:10,784 [Worker-213] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 17:17:10,784 [Worker-213] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 17:17:10,789 [Worker-213] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:19:23,297 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:19:23,297 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:19:23,298 [Worker-204] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:19:23,298 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:20:49,605 [Worker-218] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 17:20:49,776 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:20:49,777 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:20:49,777 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:20:49,777 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:20:49,778 [Worker-218] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 17:20:49,778 [Worker-218] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 17:20:49,780 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:20:59,084 [Worker-204] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for LoginRegistration
+2018-07-12 17:20:59,255 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:20:59,255 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:20:59,256 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:20:59,256 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:20:59,256 [Worker-217] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of LoginRegistration
+2018-07-12 17:20:59,256 [Worker-217] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for LoginRegistration
+2018-07-12 17:20:59,260 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:30:05,127 [Worker-225] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:30:05,127 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:30:05,128 [Worker-225] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:30:05,129 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:30:15,913 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:30:15,914 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:30:15,915 [Worker-224] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:30:15,915 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:35:35,893 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:35:35,893 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:35:35,894 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:35:35,894 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:36:41,294 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:36:41,294 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:36:41,296 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:36:41,296 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:54:09,785 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:54:09,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:54:09,822 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:54:09,823 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:55:42,420 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:55:42,426 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:55:42,428 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:55:42,428 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:56:40,594 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:56:40,595 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:56:40,598 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:56:40,599 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 17:57:03,350 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:57:03,350 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 17:57:03,352 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 17:57:03,352 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 18:12:24,316 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:12:24,316 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 18:12:24,318 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:12:24,318 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 18:12:46,940 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:12:46,940 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 18:12:46,941 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:12:46,942 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 18:48:08,471 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:48:08,472 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 18:48:08,474 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:48:08,474 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 18:50:23,055 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:50:23,057 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 18:50:23,058 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:50:23,059 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 18:51:34,093 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:51:34,094 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 18:51:34,095 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 18:51:34,096 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 19:03:59,707 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:03:59,730 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 19:03:59,734 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:03:59,740 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 19:08:41,186 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:08:41,187 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 19:08:41,188 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:08:41,189 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 19:11:32,121 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:11:32,121 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 19:11:32,122 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:11:32,122 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-12 19:18:17,237 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:18:17,238 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 19:18:17,239 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 19:18:17,240 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 09:35:27,931 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 09:35:28,132 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 09:35:28,135 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 09:35:28,136 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:13:09,460 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:13:09,494 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:13:09,495 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:13:09,496 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:13:36,807 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:13:36,814 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:13:36,816 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:13:36,816 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:21:48,543 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:21:48,544 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:21:48,546 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:21:48,548 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:25:41,778 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:25:41,779 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:25:41,780 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:25:41,781 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:30:47,867 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:30:47,870 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:30:47,871 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:30:47,872 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:43:25,828 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar
+2018-07-13 10:43:26,505 [Worker-56] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar
+2018-07-13 10:43:26,898 [Worker-56] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:javax.servlet-api:3.1.0
+2018-07-13 10:43:27,135 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:43:27,136 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:43:27,137 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:43:27,137 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 10:49:58,304 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:49:58,305 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 10:49:58,306 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 10:49:58,306 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 11:20:43,521 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 11:20:43,522 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 11:20:43,524 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 11:20:43,525 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 11:34:56,031 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 11:34:56,032 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 11:34:56,034 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 11:34:56,034 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources
+2018-07-13 12:21:14,492 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 12:21:14,493 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-13 12:21:14,494 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-13 12:21:14,495 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Downloads/AdvJava/LoginRegistration/src/test/resources

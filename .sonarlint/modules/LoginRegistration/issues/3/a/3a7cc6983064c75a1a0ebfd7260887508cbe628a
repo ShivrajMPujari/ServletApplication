@@ -1,0 +1,13 @@
+
+]squid:S19890"&Add a "try/catch" block for "include".(š”¸»8û­Ö½È,HRMINORZVULNERABILITY
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(¡Ï³÷ûÿÿÿÿ8û­Ö½È,HŸRMAJORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿H RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¼¼ŸùÿÿÿÿH¡RMINORZ
+CODE_SMELL
+]squid:S19890"&Add a "try/catch" block for "include".(š”¸»8û­Ö½È,H¢RMINORZVULNERABILITY
+squid:S1192$"JDefine a constant instead of duplicating this literal "index.jsp" 3 times.(š”¸»8û­Ö½È,H£RCRITICALZ
+CODE_SMELL
+dsquid:S1989"(Add a "try/catch" block for "getWriter".(¯†€øÿÿÿÿ8û­Ö½È,H¤RMINORZVULNERABILITY

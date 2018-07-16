@@ -1,0 +1,9 @@
+
+’squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(“¶ÃÚ8½˜á¢È,H‹RMINORZ
+CODE_SMELL
+’squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "output".(±¬İ·8—˜†ËÈ,HŒRMINORZ
+CODE_SMELL
+squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "set".(­×¼ù8½˜á¢È,HRMINORZ
+CODE_SMELL
+‡squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈËô"HRMINORZ
+CODE_SMELL

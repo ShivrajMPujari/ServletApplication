@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+.tableDiv{
+	height:400px;
+	width:550px;
+	margin:auto;
+	border:2px solid black;
+}
+.loginTabel{
+	
+	height:350px;
+	width:520px;
+	margin:auto;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.message{
+  color: red;
+  font-size: 15px;
+}

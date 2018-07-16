@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;User.java&apos; to &apos;model&apos;" description="Move &apos;User.java&apos; to &apos;model&apos;" destination="src/main/resources/com/bridgeIt/model" element1="src/main/resources/User.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1531218929781" updateReferences="true"/>
+</session>

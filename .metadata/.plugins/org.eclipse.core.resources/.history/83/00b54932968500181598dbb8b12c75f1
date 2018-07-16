@@ -1,0 +1,40 @@
+
+body{
+	background-color: #d0e1e1;
+}
+
+.tableDiv{
+	height:250px;
+	width:500px;
+	margin:auto;
+	border:2px solid black;
+}
+
+.heading{
+
+	padding-left: 200px;
+}
+.loginTabel{
+	
+	height:200px;
+	width:400px;
+	margin:auto;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.submitButton{
+	padding-left:160px;
+	
+}
+.register{
+	
+	padding-left:220px;
+}
+#emailMsg{
+color: red;
+font-size: 12px;
+}
+#passwordMsg{
+	color: red;
+	font-size: 12px;
+}

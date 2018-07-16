@@ -1,0 +1,31 @@
+
+~squid:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(šş€8í¦ÌÊÈ,HRBLOCKERZBUG
+„squid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(²³á£ùÿÿÿÿ8¼í¸ÊÈ,HRMAJORZ
+CODE_SMELL
+_squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8í¦ÌÊÈ,H‘RMINORZVULNERABILITY
+„squid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¼í¸ÊÈ,H’RMAJORZ
+CODE_SMELL
+ƒsquid:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÉÀËÏøÿÿÿÿ8ÔÚ› È,H“RBLOCKERZBUG
+_squid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔÚ› È,H”RMINORZVULNERABILITY
+squid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(†€éˆ8¼í¸ÊÈ,H•RMAJORZ
+CODE_SMELL
+vsquid:S2095d"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ŒçÔì8£¢ŞÊÈ,H–RBLOCKERZBUG
+q
+squid:S106f"9Replace this use of System.out or System.err by a logger.(õüÿ‹ûÿÿÿÿ8Ú»òÊÈ,H—RMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔÚ› È,H˜RMINORZVULNERABILITY
+~squid:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆñ–8ÔÚ› È,H™RBLOCKERZBUG
+„squid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(¤Î–éûÿÿÿÿ8¼í¸ÊÈ,HšRMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ¶šH›RMINORZ
+CODE_SMELL
+ssquid:S2259="AA "NullPointerException" could be thrown; "con" is nullable here.(ÉÀËÏøÿÿÿÿ8ÔÚ› È,HœRMAJORZBUG
+_squid:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔÚ› È,HRMINORZVULNERABILITY
+nsquid:S2259N"AA "NullPointerException" could be thrown; "con" is nullable here.(ˆñ–8ÔÚ› È,HRMAJORZBUG
+squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(³äãÍ8¼í¸ÊÈ,HŸRMAJORZ
+CODE_SMELL
+{squid:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿ8ÔÚ› È,H RBLOCKERZBUG
+ssquid:S2259""AA "NullPointerException" could be thrown; "con" is nullable here.(ùÃ›ßúÿÿÿÿ8ÔÚ› È,H¡RMAJORZBUG
+nsquid:S2259b"AA "NullPointerException" could be thrown; "con" is nullable here.(šş€8í¦ÌÊÈ,H¢RMAJORZBUG
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔÚ› È,H£RMINORZVULNERABILITY
+_squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔÚ› È,H¤RMINORZVULNERABILITY

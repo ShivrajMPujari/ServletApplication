@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.bridgeIt.LoginReg.DAO.UserDAO"/>
+<fullyQualifiedTypeName name="com.bridgeIt.UserPojo.User"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="com.bridgeIt.dao.UserDao"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.bridgeIt.service.Service"/>
+<fullyQualifiedTypeName name="com.bridgeIt.model.User"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,26 @@
+
+dsquid:S1989"(Add a "try/catch" block for "getWriter".(¯†€øÿÿÿÿ8ÚÔ½È,HşRMINORZVULNERABILITY
+_squid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÔ½È,HƒRMINORZVULNERABILITY
+]squid:S11258")Remove the literal "false" boolean value.(ï®¡ï8ÚÔ½È,H…RMINORZ
+CODE_SMELL
+]squid:S1989D"&Add a "try/catch" block for "include".(š”¸»8Ğ§«ËÈ,H‚RMINORZVULNERABILITY
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ8ã¬»ËÈ,HRMAJORZ
+CODE_SMELL
+]squid:S1989*"&Add a "try/catch" block for "include".(¨àğº8Ğ§«ËÈ,HıRMINORZVULNERABILITY
+gsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿HˆRMAJORZ
+CODE_SMELL
+]squid:S1989D"&Add a "try/catch" block for "include".(š”¸»8ÚÔ½È,HÿRMINORZVULNERABILITY
+squid:S11926"JDefine a constant instead of duplicating this literal "index.jsp" 3 times.(š”¸»8İÿ½È,H„RCRITICALZ
+CODE_SMELL
+ksquid:S25898"7Remove this expression which always evaluates to "true"(ï®¡ï8ÚÔ½È,H‡RMAJORZ
+CODE_SMELL
+~squid:S1192)"HDefine a constant instead of duplicating this literal "warning" 4 times.(î¸äP8Ø¼‚ğÈ,HƒRCRITICALZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¼¼ŸùÿÿÿÿH€RMINORZ
+CODE_SMELL
+]squid:S1989*"&Add a "try/catch" block for "include".(¨àğº8ÚÔ½È,H†RMINORZVULNERABILITY
+csquid:S1481"*Remove this unused "write" local variable.(¯†€øÿÿÿÿ8Ïğ„ğÈ,H…RMINORZ
+CODE_SMELL
+rsquid:S1854"9Remove this useless assignment to local variable "write".(¯†€øÿÿÿÿ8Ïğ„ğÈ,H†RMAJORZ
+CODE_SMELL

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="index.css"/>
+
+<script type="text/javascript">
+
+var email = document.getElementByName("emailId");
+var password = document.getElementByName("password");
+
+function validation(){
+	
+
+ 
+ 
+ 
+}
+
+
+
+</script>
+
+
+</head>
+<body>
+
+<div class="tableDiv">
+<form action="login" method="get">
+<table class="loginTabel" cellspacing="15">
+<tr>
+	<td> Email id:- </td> <td> <input type="email" name="emailId" required/></td>	
+</tr>
+<tr><td colspan="2"><span id="emailmsg"></span></td></tr>
+<tr>
+	<td>Password :- </td> <td> <input type="password" name="password" required/> </td>
+</tr>
+
+<tr>
+<td colspan="2"  class="submitButton"  > <input class="btn"type="submit" value="login " /></td>
+</tr>
+
+<tr>
+<td colspan="2" class="register"><a href="Registration.jsp">Register</a></td>
+</tr>
+</table>
+</form>
+</div>
+</body>
+</html>

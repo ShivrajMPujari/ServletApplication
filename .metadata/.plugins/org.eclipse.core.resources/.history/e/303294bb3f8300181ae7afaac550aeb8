@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+.tableDiv{
+	height:250px;
+	width:500px;
+	margin:auto;
+	border:2px solid black;
+}
+.loginTabel{
+	
+	height:240px;
+	width:480px;
+	margin:auto;
+	padding-left: 40px;
+}
+tr,td{
+	height: 35px;
+	border:2px solid black;
+}
+.submitButton{
+	padding-left:200px;
+	
+}
+.btn{
+	height: 30px;
+	width:50px;
+}
+.register{
+	
+	padding-left:150px;
+}

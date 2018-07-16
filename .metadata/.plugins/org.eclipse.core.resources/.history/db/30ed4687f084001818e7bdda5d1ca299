@@ -1,0 +1,68 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <%@ page import="com.bridgeIt.model.User" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+
+<script>
+        var validation = function() {
+            var email = document.myForm.emailId.value;
+            var password = document.myForm.password.value;
+            var emailMessage = document.getElementById("emailMsg");
+            var passwordMessage = document.getElementById("passwordMsg");
+            console.log(email + " " + password);
+            //var emailRegEx = new RegExp("^[a-zA-z0-9,+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$");
+            //var emailRegEx = new RegExp( "/^[^\s@_]+[^\s]+@[^\s@]+\.[^\s@]{2,}$/"); 
+            var emailRegEx = new RegExp("^[a-zA-z0-9][a-zA-z0-9_.]*@[a-zA-z0-9]+([.][a-zA-Z]+)+$");
+
+
+            if (emailRegEx.test(email) && password.length > 3) {
+
+                return true;
+
+            } else if (emailRegEx.test(email) == false) {
+                // alert("email id or password is incorrect");
+                emailMessage.innerHTML = "*Invalid mail id";
+                return false;
+            } else if (password.length < 3) {
+
+                passwordMessage.innerHTML = "*Password should contain atleast 4 characters";
+                return false;
+            }
+        }
+    </script>
+
+
+
+</head>
+<body>
+
+
+<% 
+
+response.setContentType("text/html");
+User user = (User)session.getAttribute("user");
+out.println(user);
+if(user==null){
+	out.print("plz login again");
+	response.sendRedirect("index.html");
+	
+}
+
+%>
+
+<h3>welcome <%= user.getFullName()%>,</h3>
+
+<p> your email id is <%= user.getEmail() %></p>
+
+<form action="logout" method="post">
+
+<input type="submit" value="logout">
+
+</form>
+
+</body>
+</html>
